@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Installer output
+installer/*.exe
+
+# Local config / logs
+*.log
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# WorkBuddy internal data
+.workbuddy/
