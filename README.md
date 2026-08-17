@@ -10,7 +10,8 @@
 
 > 当前版本：**v1.0.0**
 
-- 进入右侧 [Releases](../../releases) 页面，下载最新版 `ScreenEye_Setup.exe`。
+- **直接下载安装包**：[ScreenEye_Setup.exe](https://github.com/baishi12121/ScreenEye/releases/download/v1.0.0/ScreenEye_Setup.exe)
+- 也可以在右侧 [Releases](../../releases) 页面选择版本下载。
 - 双击安装包，按向导提示完成安装即可开始使用。
 - 安装过程无需管理员权限，默认安装到当前用户的应用目录。
 
